@@ -2,7 +2,7 @@
 
 > **Corewall：把网页变成你的 macOS 动态壁纸**
 
-大家好，我最近做了一个 macOS 壁纸应用——Corewall。App 正在 App Store 审核中，目前可以通过 [TestFlight](https://testflight.apple.com/join/8hBCbycu) 体验。
+App 正在 App Store 审核中，目前可以通过 [TestFlight](https://testflight.apple.com/join/8hBCbycu) 体验。
 
 ## 为什么做这个？
 
