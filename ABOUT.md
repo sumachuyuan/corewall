@@ -4,6 +4,10 @@
 
 App 正在 App Store 审核中，目前可以通过 [TestFlight](https://testflight.apple.com/join/8hBCbycu) 体验。
 
+### 系统要求
+- **macOS 14.0 (Sonoma)** 或更高版本
+- 支持 **Apple Silicon** / **Intel** 芯片
+
 ## 为什么做这个？
 
 macOS 的动态壁纸一直很漂亮，但选择有限。我想，能不能把任意网页、视频变成桌面壁纸？于是做了 Corewall——一个让桌面"活起来"的工具。
