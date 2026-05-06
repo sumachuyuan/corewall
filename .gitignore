@@ -5,3 +5,12 @@ build/
 DerivedData/
 .xcworkspace/
 xcuserdata/
+
+# Claude / CherryStudio
+.claude/
+memory/
+SOUL.md
+USER.md
+
+# 文档（内部使用，不提交）
+docs/
