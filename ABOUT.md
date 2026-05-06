@@ -2,7 +2,7 @@
 
 > **Corewall — 沉浸式桌面体验**
 
-Corewall 已上架 [App Store](https://apps.apple.com/app/id6762517792)，也可以通过 [TestFlight](https://testflight.apple.com/join/8hBCbycu) 体验最新版本。
+Corewall 已上架 [App Store](https://apps.apple.com/app/id6762517792?mt=12)（直接搜索 **Corewall** 即可），也可以通过 [TestFlight](https://testflight.apple.com/join/8hBCbycu) 体验最新版本。
 
 ### 系统要求
 - **macOS 14.0 (Sonoma)** 或更高版本
